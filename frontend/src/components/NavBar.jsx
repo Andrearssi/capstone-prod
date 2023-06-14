@@ -69,21 +69,18 @@ const NavBar = () => {
                 <Nav className="mt-auto">
                   <NavLink
                     to="/dashboard"
-                    activeClassName="active-link"
                     className="nav-link"
                   >
                     Dashboard
                   </NavLink>
                   <NavLink
                     to="/prices"
-                    activeClassName="active-link"
                     className="nav-link"
                   >
                     Prices
                   </NavLink>
                   <NavLink
                     to="/tengkulaks"
-                    activeClassName="active-link"
                     className="nav-link"
                   >
                     Tengkulaks
